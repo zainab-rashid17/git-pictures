@@ -6,3 +6,4 @@ run the folllowing commands
 * if you are in this folder type this command cd `git-picture`
 * if you are in this folder type this command cd `git-picture`
 ## Pictures
+< img src="pictures/images.jfif" width"350" >
